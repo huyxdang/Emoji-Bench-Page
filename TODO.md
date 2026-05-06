@@ -1,1 +1,2 @@
 - [ ] Add **latency** to the leaderboard too - interesting, and may have implication to the results. 
+- [ ] **Control Results** -- How to incorporate? 
