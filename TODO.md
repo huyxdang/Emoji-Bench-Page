@@ -1,0 +1,1 @@
+- [ ] Add **latency** to the leaderboard too - interesting, and may have implication to the results. 
