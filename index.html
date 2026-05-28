@@ -1731,6 +1731,17 @@
         }
       },
       {
+        model: "Opus 4.8", provider: "Anthropic", logo: "public/claude.svg",
+        l0: 50, l1: 97, rows: 100, apiModel: "claude-opus-4-8", maxOutput: "128k tokens",
+        reasoning: "adaptive · max", route: "Anthropic Messages API", config: "reasoning max",
+        byDifficulty: {
+          easy: { l0: 80, l1: 96 },
+          medium: { l0: 80, l1: 100 },
+          hard: { l0: 24, l1: 92 },
+          expert: { l0: 16, l1: 100 }
+        }
+      },
+      {
         model: "Opus 4.7", provider: "Anthropic", logo: "public/claude.svg",
         l0: 45, l1: 100, rows: 100, apiModel: "claude-opus-4-7", maxOutput: "128k tokens",
         reasoning: "adaptive · max", route: "Anthropic Messages API", config: "reasoning max",
